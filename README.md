@@ -16,7 +16,7 @@
 
 
 ##备注
--   一开始没有为本项目建立新的仓库，其为本项目下子文件（https://github.com/tangzheng1900/fronts/tree/master/MyEye）
+-   一开始没有为本项目建立新的仓库，其为本项目下子文件：https://github.com/tangzheng1900/fronts/tree/master/MyEye
 更多版本管理过程请参考上地址。
 -   本次开发过程中借用一些他人轮子，借用插件地址：https://github.com/zhao-gang/shanbay-chromium-extension
 
