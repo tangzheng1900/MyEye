@@ -3,6 +3,7 @@
 -	1.去广告，目前仅支持网站[http://www.theguardian.com/](http://www.theguardian.com/ "新闻")上的具体文章页面
 -	2.划词翻译
 -	3.响应式分页（进行中……）
+
 ##安装
 将MyEye项目下载到本地，直接在chrome浏览器的扩展工具中打开。
 ##使用
