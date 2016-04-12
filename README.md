@@ -16,6 +16,7 @@
 
 
 ##备注
-一开始没有为本项目建立新的仓库，其为本项目下子文件（https://github.com/tangzheng1900/fronts/tree/master/MyEye）
+-   一开始没有为本项目建立新的仓库，其为本项目下子文件（https://github.com/tangzheng1900/fronts/tree/master/MyEye）
 更多版本管理过程请参考上地址。
+-   借用了扇贝网开发者工具提供的原插件，尊重和保护原作者版权。原始插件[[http://en.wikipedia.org/wiki/Public_Domain][Public Domain]]
 
