@@ -11,12 +11,6 @@ head {
 }*/
 
 
-
-/*清除广告的css在这里注入*/
-
-
-
-
 /*注入的js的样式*/
 
 .complain{
@@ -94,5 +88,6 @@ body {
     background: 0;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='boxy_btn.png', sizingMethod='scale')
 }
+
 
 

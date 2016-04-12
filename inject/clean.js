@@ -2,10 +2,9 @@
  * Created by john on 2016/4/9.
  */
 
-
-window.setInterval(cleanAd(),1000);
-translate();
-
+    //执行此文件是就过滤广告和使用划词函数
+    window.setInterval(cleanAd(),1000);
+    translate();
 
 
 function cleanAd() {
@@ -57,10 +56,14 @@ function cleanAd() {
     if(dfp){
         dfp.style.display="none";
     }
+    var dfp2=document.getElementById("dfp-ad--inline2");
+    if(dfp2){
+        dfp2.style.display="none";
+    }
 }
 
 function translate() {
-    alert("使用js创建一个结构");
+    //alert("使用js创建一个结构");
     createpanel();
     drag();
     var news=document.getElementsByClassName("content__main tonal__main tonal__main--tone-news");

@@ -370,8 +370,7 @@ window.onmouseup = function(){
 
 ///////在主页面点击执行时在执行脚本。
 function exctejs(){
-   // alert("执行自己的js");
-
+    
     chrome.tabs.executeScript(null,{file:"./inject/clean.js"
 
     });
